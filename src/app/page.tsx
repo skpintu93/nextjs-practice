@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Home({params, searchParams}) {
   return (
     <div>
       <h1>Hello World</h1>
